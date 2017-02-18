@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">geofence</string>
+    <string name="add_geofences">ADD GEOFENCE</string>
+    <string name="geofence_transition_entered">Transition Entered</string>
+    <string name="geofence_transition_exited">Transition Exit</string>
+    <string name="unknown_geofence_transition">Unkown geofence transition</string>
+</resources>
